@@ -1,0 +1,8 @@
+/home/m/Dropbox/grayhat/chpt2/bin/Debug/netcoreapp1.1/chpt2.deps.json
+/home/m/Dropbox/grayhat/chpt2/bin/Debug/netcoreapp1.1/chpt2.runtimeconfig.json
+/home/m/Dropbox/grayhat/chpt2/bin/Debug/netcoreapp1.1/chpt2.runtimeconfig.dev.json
+/home/m/Dropbox/grayhat/chpt2/bin/Debug/netcoreapp1.1/chpt2.dll
+/home/m/Dropbox/grayhat/chpt2/bin/Debug/netcoreapp1.1/chpt2.pdb
+/home/m/Dropbox/grayhat/chpt2/obj/Debug/netcoreapp1.1/chpt2.AssemblyInfo.cs
+/home/m/Dropbox/grayhat/chpt2/obj/Debug/netcoreapp1.1/chpt2.dll
+/home/m/Dropbox/grayhat/chpt2/obj/Debug/netcoreapp1.1/chpt2.pdb
