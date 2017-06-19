@@ -9,7 +9,7 @@ namespace chpt2
             var url = args[0];
             var qIndex = url.IndexOf('?');
             
-            if (qIndex < 0) {
+            if (qIndex < 0) { // eh
                  return;
             }
             var parameters = url.Remove(0, qIndex + 1).Split('&');
